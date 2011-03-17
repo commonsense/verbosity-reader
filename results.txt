@@ -1,0 +1,3 @@
+{'low score': 140690, 'success': 212090, 'letter': 1420, 'no relation': 90,
+'negated': 10487, 'flag word': 41942, 'text similarity': 47115, 'clue too
+short': 4992}
